@@ -1,3 +1,5 @@
 h1{
     transform: translate(0px, 180px) !important;
+    border: 0ch;
+    display: contents;
 }
